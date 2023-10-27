@@ -12,7 +12,7 @@ Learn data engineering fundamentals by constructing a modern data stack for anal
 
 <br>
 
-👉 &nbsp;This repository contains the code that complements the [data stack](https://madewithml.com/courses/mlops/data-stack/) and [orchestration](https://madewithml.com/courses/mlops/orchestration/) lessons which is a part of the [MLOps course](https://github.com/GokuMohandas/mlops-course). If you haven't already, be sure to check out the lessons because all the concepts are covered extensively and tied to data engineering best practices for building the data stack for ML systems.
+👉 &nbsp;This repository contains the list of all modern tools for Data Engineering
 
 <div align="left">
 <a target="_blank" href="https://madewithml.com/courses/mlops/data-stack/"><img src="https://img.shields.io/badge/📖 Read-lesson-9cf"></a>&nbsp;
@@ -21,15 +21,17 @@ Learn data engineering fundamentals by constructing a modern data stack for anal
 
 <br>
 
-## Data stack
-- [Set up](#setup)
-- [Extract via Airbyte](#extract-via-airbyte)
-- [Load into BigQuery](#load-into-bigquery)
-- [Transform via dbt-cloud](#transform-via-dbt-cloud)
-- [Applications](#applications)
+## Tools
+- [Apache Spark](https://spark.apache.org/) - Unified engine for large-scale data analytics
+- Add more tools...................
 
-## Orchestration
-- [Set up Airflow](#set-up-airflow)
-- [Extract and load](#extract-and-load)
-- [Validate via GE](#validate-via-ge)
-- [Transform via dbt-core](#transform-via-dbt-core)
+## Rules for Contribution
+- Fork the repo
+- Make a seperate branch like data-feature
+- Update Readme.md and Commit Changes
+- Make PR for approval to main branch
+
+
+## Hacktoberfest Approved Repo:
+This repo is part of Opensource project for Hacktoberfest2023.Please make pull requests to participate in this repo
+
