@@ -24,7 +24,9 @@ Learn data engineering fundamentals by constructing a modern data stack for anal
 ## Tools
 - [Apache Spark](https://spark.apache.org/) - Unified engine for large-scale data analytics
 - [SnowFlake](https://www.snowflake.com/en/) - A tool for Cloud Data Warehousing
-- [Apache Flink](https://flink.apache.org/) - Apache Flink is a framework and distributed processing engine for stateful computations over unbounded and bounded data streams. 
+- [Apache Flink](https://flink.apache.org/) - Apache Flink is a framework and distributed 
+processing engine for stateful computations over unbounded and bounded data streams. 
+- [Apache Hadoop](https://hadoop.apache.org/) - The Apache Hadoop software library is a framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models
 - Add more tools...................
 
 ## Rules for Contribution
